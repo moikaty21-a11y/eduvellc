@@ -142,7 +142,7 @@ export default function Page() {
 
         <section className="mb-8 grid gap-4 md:grid-cols-2">
           <div className="rounded-2xl border p-6">
-            <h3 className="font-semibold">To Apply: Ages 17–24</h3>
+            <h3 className="font-semibold">To Apply: Ages 17–27</h3>
             <ul className="mt-3 text-sm list-disc pl-5">
               <li>Passport</li>
               <li>WASSCE Results</li>
