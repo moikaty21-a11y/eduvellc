@@ -52,8 +52,8 @@ export default function Page() {
 
           <div className="mt-6 rounded-xl bg-white p-4">
             <h3 className="font-semibold">Payment:</h3>
-            <p className="text-sm mt-1"><strong>$1,000 prepayment</strong> to start processing</p>
-            <p className="text-sm"><strong>$3,000 balance</strong> upon arrival in Belarus</p>
+            <p className="text-sm mt-1"><strong>$5000 prepayment</strong> to start processing</p>
+            <p className="text-sm"><strong>$3,500 balance</strong> upon arrival in Belarus</p>
           </div>
 
           <div className="mt-6 space-y-3">
